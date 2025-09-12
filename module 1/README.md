@@ -8,7 +8,7 @@ void main() {
   }
 }
 ```
-![](./img/image2.png)
+![](./img/soal1.png)
 
 
 # SOAL 2 : 
@@ -58,7 +58,7 @@ void main() {
   mhs2.showData();
 }
 ```
-![](./img/image1.png)
+![](./img/soal4.png)
 - Null Safety (String? noTelepon) :
 it shows optional data (sometimes filled, sometimes not).
 
