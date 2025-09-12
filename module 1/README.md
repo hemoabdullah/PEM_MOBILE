@@ -1,15 +1,6 @@
 # Soal 1 : 
 output : 
-Nama saya adalah Hammam, sekarang berumur 18
-Nama saya adalah Hammam, sekarang berumur 17
-Nama saya adalah Hammam, sekarang berumur 16
-Nama saya adalah Hammam, sekarang berumur 15
-Nama saya adalah Hammam, sekarang berumur 14
-Nama saya adalah Hammam, sekarang berumur 13
-Nama saya adalah Hammam, sekarang berumur 12
-Nama saya adalah Hammam, sekarang berumur 11
-Nama saya adalah Hammam, sekarang berumur 10
-Nama saya adalah Hammam, sekarang berumur 9
+![](./img/image2.png)
 
 
 # SOAL 2 : 
@@ -28,7 +19,7 @@ Summary of key points from the Flutter codelab:
 - Understanding the concept of state management is crucial for consistent app data.
 
 # SOAL 4:
-
+![](./img/image.png)
 - Null Safety (String? noTelepon) :
 it shows optional data (sometimes filled, sometimes not).
 
