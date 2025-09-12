@@ -1,5 +1,6 @@
 # Soal 1 : 
-output : 
+output :
+
 ![](./img/image2.png)
 
 
@@ -19,7 +20,7 @@ Summary of key points from the Flutter codelab:
 - Understanding the concept of state management is crucial for consistent app data.
 
 # SOAL 4:
-![](./img/image.png)
+![](./img/image1.png)
 - Null Safety (String? noTelepon) :
 it shows optional data (sometimes filled, sometimes not).
 
