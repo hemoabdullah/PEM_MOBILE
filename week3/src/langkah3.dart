@@ -1,11 +1,7 @@
 void main() {
-  String test = "true";
-
-  // Akan error kalau langsung "if (test)" karena test = String
-  // Jadi harus dibandingkan dulu nilainya
-  if (test == "true") {
-    print("Kebenaran");
-  } else {
-    print("Bukan Kebenaran");
+  for (int index = 10; index < 27; index++) {
+    if (index == 21) break;                  
+    else if (index > 1 && index < 7) continue; 
+    print(index);
   }
 }

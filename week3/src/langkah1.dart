@@ -9,4 +9,9 @@ void main() {
   }
 
   if (test == "test2") print("Test2 again");
+  test = "true";
+
+  if (test == "true") {
+    print("Kebenaran");
+  }
 }
