@@ -41,15 +41,16 @@ void main() {
 ```
 Test2
 Test2 again
-```
+
 
 ### Step 3
 
 ![](./img/1-step3.png)
 
-```
-**Explanation:**  
 
+
+**Explanation:**  
+```
 The program starts with a variable test set to "test2".
 The first if checks if test is "test1", but it is not, so nothing prints.
 The else if checks if test is "test2". This is true, so it prints Test2.
@@ -58,13 +59,13 @@ After that, there is another if (test == "test2"). Since test is still "test2", 
 Then the program changes test to "true".
 The last if (test == "true") is now true, so it prints Kebenaran.
 ```
+---
+
 ```
 **Output:**
 Test2
 Test2 again
 kebenaran
-```
-
 ```
 
 ## Practicum 2: Applying Loops ("while" and "do-while")
