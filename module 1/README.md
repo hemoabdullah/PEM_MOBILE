@@ -1,4 +1,4 @@
-#Soal 1 : 
+# Soal 1 : 
 output : 
 Nama saya adalah Faiz, sekarang berumur 18
 Nama saya adalah Faiz, sekarang berumur 17
@@ -35,4 +35,4 @@ Summary of key points from the Flutter codelab:
 it shows optional data (sometimes filled, sometimes not).
 
 - Late Variable (late String alamat) 
-it shows data that must be set later (simulating something like a database fetch).testsfsgfs
+it shows data that must be set later (simulating something like a database fetch).
