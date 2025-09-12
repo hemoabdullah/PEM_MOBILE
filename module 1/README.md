@@ -1,17 +1,15 @@
 # Soal 1 : 
 output : 
-Nama saya adalah Faiz, sekarang berumur 18
-Nama saya adalah Faiz, sekarang berumur 17
-Nama saya adalah Faiz, sekarang berumur 16
-Nama saya adalah Faiz, sekarang berumur 15
-Nama saya adalah Faiz, sekarang berumur 14
-Nama saya adalah Faiz, sekarang berumur 13
-Nama saya adalah Faiz, sekarang berumur 12
-Nama saya adalah Faiz, sekarang berumur 11
-Nama saya adalah Faiz, sekarang berumur 10
-Nama saya adalah Faiz, sekarang berumur 9
-
-
+Nama saya adalah Hammam, sekarang berumur 18
+Nama saya adalah Hammam, sekarang berumur 17
+Nama saya adalah Hammam, sekarang berumur 16
+Nama saya adalah Hammam, sekarang berumur 15
+Nama saya adalah Hammam, sekarang berumur 14
+Nama saya adalah Hammam, sekarang berumur 13
+Nama saya adalah Hammam, sekarang berumur 12
+Nama saya adalah Hammam, sekarang berumur 11
+Nama saya adalah Hammam, sekarang berumur 10
+Nama saya adalah Hammam, sekarang berumur 9
 
 
 # SOAL 2 : 
