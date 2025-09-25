@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](Banner.png)
 
 # 📱 Mobile Development Learning Journey  
 Welcome to my repository documenting my exploration of **Dart programming** and the **Flutter framework**. This space showcases my progress, projects, and key learnings throughout the course.  
