@@ -166,7 +166,9 @@ Jika ingin Map bertipe khusus, semua value harus bertipe sama.
 
 * Tambahkan nama dan NIM Anda ke semua Map.
 
+```
 ## Praktikum 4: Eksperimen Tipe Data List: Spread dan Control-flow Operators
+```
 Selesaikan langkah-langkah praktikum berikut ini menggunakan VS Code atau Code Editor favorit Anda.
 
 ### Langkah 1:
@@ -480,10 +482,15 @@ print(mahasiswa2.$2); // Prints jurusan
 ```
 
 # 1. Silakan selesaikan Praktikum 1 sampai 5, lalu dokumentasikan berupa screenshot hasil pekerjaan Anda beserta penjelasannya!
-
+```
 Done! 
-
+```
 # 2. Jelaskan yang dimaksud Functions dalam bahasa Dart!
+
+```
+Answer:
+``` 
+
 
 Functions in Dart are a set of instructions grouped together to perform a specific task and can be called repeatedly. Functions simplify code organization, improve readability, and enable code reuse. In Dart, functions can be defined with the `void` keyword or other data types depending on the return value. 
 For example:
@@ -493,6 +500,12 @@ void sapa() {
 }
 ```
 # 3. Jelaskan jenis-jenis parameter di Functions beserta contoh sintaksnya!
+
+```
+Answer:
+``` 
+
+
 Types of parameters in Functions in Dart:
 1. **Positional Parameter**: Parameters whose order must match when calling the function.
    ```dart
@@ -520,6 +533,12 @@ Types of parameters in Functions in Dart:
    biodata(nama: 'Siti');
    ```
 # 4. Jelaskan maksud Functions sebagai first-class objects beserta contoh sintaknya!
+
+```
+Answer:
+``` 
+
+
 Functions are first-class objects, meaning they can be treated like other data—stored in variables, passed as parameters, and returned from other functions. For example:
 ```dart
 void cetakPesan() {
@@ -536,6 +555,12 @@ void main() {
 }
 ```
 # 5. Apa itu Anonymous Functions? Jelaskan dan berikan contohnya!
+
+```
+Answer:
+``` 
+
+
 Anonymous functions are unnamed functions typically used as parameters or for simple operations. Anonymous functions are often called lambdas or closures. For example:
 
 ```dart
@@ -546,6 +571,10 @@ angka.forEach((item) {
 ```
 # 6. Jelaskan perbedaan Lexical scope dan Lexical closures! Berikan contohnya!
 **Lexical scope** 
+
+```
+Answer:
+``` 
 
 A rule for determining variables based on where the code is written during compilation. Variables can only be accessed within the area (scope) where they are declared.
 
@@ -581,6 +610,9 @@ void main() {
 
 # 7. Jelaskan dengan contoh cara membuat return multiple value di Functions!
 
+```
+Answer:
+```
 To return more than one value from a function in Dart, you can use the Record (since Dart 3) or Map/List data types. For example,:
 
 ```dart
